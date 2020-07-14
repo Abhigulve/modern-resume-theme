@@ -19,3 +19,24 @@
   description: | # this will include new lines to allow paragraphs
    1. Worked on cab application to provide live location of driver.
    2. Implemented remediation scripts for vulnerabilities of the operation system.
+
+- layout: left
+  company: TomTom India. Pvt Ltd.​ PUNE, INDIA.
+  link: https://www.tomtom.com/en_in/
+  job_title: Software Developer
+  dates: Oct 2017 - Present
+  quote: >
+   Work on different feature related to map making.
+  description: | # this will include new lines to allow paragraphs
+   1. Working on a tool that will help to analyse data quality of our map data.
+   2. Working on creating spatial data for maps addressing.
+   3.Process Tb’s of GPS traces to predict important areas in the world.
+   4.Used Z-order curve algorithm to break the world in tiles (i.e Morton tiles,​ Geospatial
+   algorithm) and grouped then in such a way that helps parallelization of transactions.
+   5.Derived Roads using Probe data(GPS traces) with the help of image processing and spatial
+   operations related to geometry.
+   6.Created augmented reality application using wikitude for showing places around the users
+   certain radius using TomTom APIs.
+   7.Worked on data analysis for predicting the important countries for TomTom to expand their
+   business/focus on data quality.
+   8.Implemented Api versioning with a different approach than the traditional one.a
