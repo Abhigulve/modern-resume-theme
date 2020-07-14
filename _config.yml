@@ -24,11 +24,8 @@ youtube_username: NA
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   Hi, I'm Abhijeet and I'm a Software developer.Having good knowledge and hands-on experience of data structures, algorithms, and object -
-oriented programming.Having Around 5 years of hands on experience in Development and Deployment of web
-based applications using Java and Python.Having strong experience in working with Geospatial systems.
-
-  I am most skilled in: <mark>Java</mark> , <mark>Python</mark> <mark>Data structure</mark>  and <mark>Algorithms</mark> 
+   Hi, I'm Abhijeet and I'm a Software developer.Having good knowledge and hands-on experience of data structures, algorithms, and object-oriented programming.Having Around 5 years of hands on experience in Development and Deployment of web based applications using Java and Python.Having strong experience in working with Geospatial systems.
+I am most skilled in: <mark>Java</mark> , <mark>Python</mark> <mark>Data structure</mark>  and <mark>Algorithms</mark> 
 # Projects Section
 # projects_title: Projects
 
